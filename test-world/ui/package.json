@@ -1,0 +1,12 @@
+{
+  "name": "test-world-ui",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Browser UI for the test world (placeholder).",
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"UI scaffolding not set up yet\"",
+    "build": "echo \"UI scaffolding not set up yet\"",
+    "test": "echo \"no tests yet\""
+  }
+}
